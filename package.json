@@ -9,7 +9,7 @@
  "dev": "tsx src/index.ts"
  },
  "dependencies": {
- "@hono/hono": "^4.6.0",
+ "hono": "^4.6.0",
  "jsonwebtoken": "^9.0.2",
  "better-sqlite3": "^11.6.0"
  },
