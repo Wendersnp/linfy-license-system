@@ -1,5 +1,5 @@
-import { Hono } from '@hono/hono';
-import { cors } from '@hono/hono/cors';
+import { Hono } from 'hono';
+import { cors } from 'hono/cors';
 import Database from 'better-sqlite3';
 
 const app = new Hono();
